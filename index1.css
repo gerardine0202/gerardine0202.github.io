@@ -1,0 +1,22 @@
+h2{
+    color: deeppink;
+}
+h1{
+    color: deeppink;
+}
+h3{
+    color: deeppink;
+}
+div{
+    color: darkorchid;
+}
+section{
+    border: 2px;
+background-color:antiquewhite;
+margin: 10px;
+padding: 10px;
+}
+nav{
+    border: 2px dotted #373737 ;
+    transform: .1s;
+}
